@@ -1,4 +1,3 @@
-
 ## Overview
 
 This project trains and optimizes a GAN's neural network on the QMNIST dataset to classify digits. The steps include model setup, performance evaluation, modifications, and hyperparameter tuning to achieve improved accuracy.
